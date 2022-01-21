@@ -1,0 +1,24 @@
+.buy-now-button{
+    background-color: white;
+    border: 4px solid #ff99e0;
+    transition: 0.3s;
+    
+}
+.buy-now-button:hover {
+    background-color: #ff99e0;
+    border: 4px solid white;    
+}
+.card-border{
+    background-color: #FFC107;
+    color: white;
+    border: 4px solid #FFC107; 
+}
+.card-border:hover{
+    border: 4px solid #FFC107;
+    
+    background-color: #fff;
+    transition: 0.3s;
+}
+.card-border:hover h1{
+    color: black;
+}
